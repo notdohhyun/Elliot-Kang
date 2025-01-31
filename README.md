@@ -1,12 +1,12 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Elliot Kang, Daniel Yo
+ekang1@vt.edu, yodaniel1305@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
 
 ## Current Status
-IN PROGRESS
+HAVE NOT STARTED
 
 ## Project Overview
 
