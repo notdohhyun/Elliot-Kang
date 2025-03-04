@@ -1,6 +1,12 @@
 ## Members
-Elliot Kang, Daniel Yo, Farhad Ramatulla
-ekang1@vt.edu, yodaniel1305@vt.edu, framatulla@vt.edu
+Project Focus - Hardware
+Elliot Kang - ekang1@vt.edu
+Daniel Yo - yodaniel1305@vt.edu
+Farhad Ramatulla - framatulla@vt.edu
+
+Project Focus - Software
+Farhad Ramatulla - framatulla@vt.edu
+Elliot Kang - ekang1@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
@@ -10,7 +16,7 @@ HAVE NOT STARTED
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Vanity Mirror 
 
 ## Educational Value Added
 
