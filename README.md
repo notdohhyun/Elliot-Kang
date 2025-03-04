@@ -16,7 +16,9 @@ HAVE NOT STARTED
 
 ## Project Overview
 
-Vanity Mirror 
+The project focuses on designing and building a smart vanity mirror equipped with an LED screen powered by an Arduino. The goal is to integrate various features that enhance both functionality and convenience of a mirror. The LED screen will display real time information such as the room temperature and weather updates making it practical for daily use. To achieve this temperature sensors and possibly an internet connection module will be used for accurate readings and weather data. Additionally the mirror will include a built-in Bluetooth speaker allowing users to listen to music or podcasts while getting ready. This combination of features aims to create a modern and user-friendly smart mirror experience.
+
+ 
 
 ## Educational Value Added
 
