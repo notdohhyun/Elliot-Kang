@@ -1,6 +1,6 @@
 ## Members
 Elliot Kang, Daniel Yo, Farhad Ramatulla
-ekang1@vt.edu, yodaniel1305@vt.edu, 
+ekang1@vt.edu, yodaniel1305@vt.edu, framatulla@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
